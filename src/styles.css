@@ -44,3 +44,10 @@
 .dropdown.show {
   display: block;
 }
+
+.dropdown li a{
+    color: #fff;
+    display: block;
+    text-decoration: none;
+    margin-bottom: 20px;
+}
